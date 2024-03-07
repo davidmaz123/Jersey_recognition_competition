@@ -1,0 +1,2 @@
+# Jersey_recognition_competition
+teamwork
